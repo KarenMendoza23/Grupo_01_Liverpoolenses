@@ -22,7 +22,7 @@ Considerar aumentar la cantidad dependiendo del numero de personas
 Copia y pega todo lo necesario Copia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesariovvCopia y pega todo lo necesarioCopia y pega todo lo necesariovCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesario
 
 <p align="Center">
-<img src="crema.png" width="250">
+<img src="IMG/crema.jpg" width="250">
 </p>
 
 ## Preparación del tiramisú casero
@@ -30,7 +30,7 @@ Copia y pega todo lo necesario Copia y pega todo lo necesarioCopia y pega todo l
 Copia y pega todo lo necesario Copia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesariovvCopia y pega todo lo necesarioCopia y pega todo lo necesariovCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesario
 
 <p align="Center">
-<img src="IMG/tiramisu.png" width="250">
+<img src="IMG/tiramisu.jpg" width="250">
 </p>
 
 ### _Si tienes dudas puedes ver nuestro video_
