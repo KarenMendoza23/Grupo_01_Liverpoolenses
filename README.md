@@ -8,7 +8,8 @@ _Para X personas_
 ## Ingredientes
 
 Considerar aumentar la cantidad dependiendo de la cantidad de personas 
-<div align="left">
+<div align="left" background:linear-gradient(top, red, gold);
+>
 
 | *Ingrediente*            | *Cantidad*     |
 | ----------------- | :---------------: |
