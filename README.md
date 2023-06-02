@@ -1,6 +1,6 @@
 # *Tiramisú*. Receta italiana
 _Para 8 personas_
-<p align="left">
+<p align="center">
 <img src="https://www.recetasderechupete.com/wp-content/uploads/2020/05/Tiramis%C3%BA-italiano-1200x828.jpg" width="350">
 </p>
 
@@ -19,7 +19,11 @@ Considerar aumentar la cantidad dependiendo del numero de personas
 
 ## Preparación de la crema sabayón
 
-Copia y pega todo lo necesario Copia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesariovvCopia y pega todo lo necesarioCopia y pega todo lo necesariovCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesario
+> 1. Calentamos agua en una cazuela grande, debe estar caliente pero sin llegar a hervir. Mientras se calienta el agua vamos separando las yemas de las claras y apartamos en una taza. Las claras las vamos a montar posteriormente, reservamos.
+>
+> 2. Los huevos deben ser frescos y hay que manipularlos a temperatura ambiente. Mezclamos el azúcar, en un cuenco metálico, con todas las yemas. Empezamos batiendo en el cuenco fuera del agua y cuando comience a espumar introducimos el cuenco en la cazuela con el agua caliente.
+>
+> 3. Una vez dentro batimos con unas varillas manualmente o con las de la batidora hasta que las yemas doblen de tamaño. Vamos añadiendo poco a poco las cuatro cucharadas de amaretto y mezclando de manera envolvente hasta que estén incorporadas a la crema. Después de mezclar todo sacamos del baño maría y seguimos en frío hasta que nos quede una crema esponjosa y compacta. Reservamos para el montaje del tiramisú.
 
 <p align="Center">
 <img src="IMG/crema.jpg" width="250">
@@ -27,7 +31,7 @@ Copia y pega todo lo necesario Copia y pega todo lo necesarioCopia y pega todo l
 
 ## Preparación del tiramisú casero
 
-Copia y pega todo lo necesario Copia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesariovvCopia y pega todo lo necesarioCopia y pega todo lo necesariovCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesario
+> Copia y pega todo lo necesario Copia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesariovvCopia y pega todo lo necesarioCopia y pega todo lo necesariovCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesario
 
 <p align="Center">
 <img src="IMG/tiramisu.jpg" width="250">
