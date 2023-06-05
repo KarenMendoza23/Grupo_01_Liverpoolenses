@@ -1,6 +1,6 @@
 # *Tiramisú*. Receta italiana
 <p align="Center">
-   <img src="IMG/Italian_chef.jpg" width="200">
+   <img src="https://www.shutterstock.com/image-vector/italian-desserts-tiramisu-text-hand-260nw-1833497803.jpg" width="200">
 </p>
 
 > El tiramisú es uno de los postres italianos más conocidos y apreciados del mundo: ¡piensa que Tiramisú es la quinta palabra italiana más conocida entre los europeos.
