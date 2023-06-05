@@ -41,12 +41,23 @@ Considerar aumentar la cantidad dependiendo del numero de personas
 
 ## Preparación del tiramisú casero
 
-- Montamos las claras a punto de nieve. Para ello introducimos las claras, a temperatura ambiente, en un bol en el que no haya ningún resto de grasa o no subirán. Les añadimos un pellizco de sal y empezamos a batir. Batimos hasta que las claras suban y queden firmes. Luego manejamos el merengue con una espátula de silicona.
+> 1. Montamos las claras a punto de nieve. Para ello introducimos las claras, a temperatura ambiente, en un bol en el que no haya ningún resto de grasa o no subirán. Les añadimos un pellizco de sal y empezamos a batir. Batimos hasta que las claras suban y queden firmes. Luego manejamos el merengue con una espátula de silicona.
+>
+> 2. Añadimos la crema sabayón que tenemos reservada a las claras montadas. Mezclamos de manera envolvente y con cuidado hasta que quede todo integrado e intentando que bajen lo mínimo posible.
+>
+> 3. Batimos el queso mascarpone hasta que quede cremoso (lo mejor es batirlo a temperatura ambiente). Mezclamos este queso batido con la crema anterior suavemente, intentando que no se baje la crema para mantenerla esponjosa. Reservamos.
+>
+> 4. Ponemos una cafetera con un buen café, el que más nos guste. Una vez preparado lo dejaremos enfriar.
+>
 
-- Añadimos la crema sabayón que tenemos reservada a las claras montadas. Mezclamos de manera envolvente y con cuidado hasta que quede todo integrado e intentando que bajen lo mínimo posible.
-- Batimos el queso mascarpone hasta que quede cremoso (lo mejor es batirlo a temperatura ambiente). Mezclamos este queso batido con la crema anterior suavemente, intentando que no se baje la crema para mantenerla esponjosa. Reservamos.
-- Ponemos una cafetera con un buen café, el que más nos guste. Una vez preparado lo dejaremos enfriar.
+## Presentación final del tiramisú
 
+> 1. En el molde elegido, ponemos una capa de bizcochos de soletilla. Regamos con el café para empapar los bizcochos. No debemos mojarlos demasiado, lo justo para asustarlos, no deben romperse.  
+>
+> 2.Cubrimos con una capa de crema de queso y huevo y repetimos la operación hasta tener una o dos capas más, bizcochos mojados y capa de crema. El último paso es el del toque del cacao, imprescindible que sea cacao de calidad y amargo. Este ingrediente es el que da ese contraste tan importante en este postre.
+>
+> 3. Lo espolvoreamos sobre el postre con un colador para que no queden grumillos. Yo suelo dejar este paso para el final de todo. Justo antes de presentarlo a los invitados, porque al enfriar el cacao tiene peor presentación. Y lo fundamental, metedlo a la nevera para que enfríe. Yo lo dejo siempre de un día para otro.
+>
 <p align="Center">
 <img src="IMG/tiramisu.jpg" width="250">
 </p>
