@@ -23,7 +23,7 @@ Considerar aumentar la cantidad dependiendo del numero de personas
 | ----------------- | :---------------: | :---------------: |:---------------: |:---------------: |:---------------: |
 | Queso-Crema Mascarpone      | 500g.  | <img src="https://www.cardamomo.news/__export/1678996138143/sites/debate/img/2023/03/16/queso-crema.jpg_172596871.jpg" width="100"> |    Huevo  |  6 piezas.  | <img src="https://www.recetasderechupete.com/wp-content/uploads/2020/06/Tipos-de-huevos.jpg" width="100"> |
 | Azúcar Glass en Polvo        | 150 g. | <img src="https://i0.wp.com/www.pasionthermomix.co/wp-content/uploads/2019/10/azucar-glas.jpg" width="100"> | Bizcochos Savoiardi o de Soletilla      | 300 g. | <img src="https://okdiario.com/img/2015/10/25/receta-de-bizcochos-savoiardi-o-de-soletilla-655x368.jpg" width="100"> |
-| Amaretto | 4 cucharadas | <img src="https://www.disevil.com/modules/ltw_simpleblog/featured/167.jpg" width="100"> | Café Fuerte       | 150 ml. | <img src="https://i.blogs.es/99439e/cacao-polvo/1366_2000.jpg" width="100"> |
+| Amaretto | 4 cucharadas | <img src="https://ss388.liverpool.com.mx/xl/19819787.jpg" width="100"> | Café Fuerte       | 150 ml. | <img src="https://i.blogs.es/99439e/cacao-polvo/1366_2000.jpg" width="100"> |
 | Cacao puro en polvo       | 10 a 20 g.  | <img src="https://www.sincable.mx/wp-content/uploads/2021/07/Yz6-UdT-cafe-en-polvo-1-81363863_s.jpg" width="100"> | Sal      | 1 Pizca | <img src="https://cdn.shopify.com/s/files/1/0003/1916/0381/articles/IMG_8951a1.jpg?v=1621027793" width="100"> |
 </div>
 
