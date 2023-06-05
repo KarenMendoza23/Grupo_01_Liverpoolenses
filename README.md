@@ -67,3 +67,9 @@ Considerar aumentar la cantidad dependiendo del numero de personas
 [![Guiate con el video](https://www.ilolay.com.ar/uploads/recetas/1658880862-Tiramisu.jpg)](https://youtu.be/6XIwPIqDzA4)
 
 
+### Te dejamos algunas otras opciones de postres
+
+* [Crepas de Queso Brie](https://www.recetasnestle.com.mx/recetas/crepas-queso-brie)
+* [Sorpresa de Piña Colada](https://www.recetasnestle.com.mx/recetas/sorpresa-pina-colada)
+* [Crumble de Pera](https://www.recetasnestle.com.mx/recetas/crumble-pera-helado)
+* [Brownie Cookies and Cream](https://www.recetasnestle.com.mx/recetas/brownie-cookies-cream)
