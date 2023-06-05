@@ -1,5 +1,14 @@
 # *Tiramisú*. Receta italiana
+<p align="Center">
+   <img src="IMG/Italian_chef.jpg" width="200">
+</p>
+> El tiramisú es uno de los postres italianos más conocidos y apreciados del mundo: ¡piensa que Tiramisú es la quinta palabra italiana más conocida entre los europeos.
+>
+> Alrededor de la historia del tiramisú se escuchan muchas leyendas. La primera la encontramos en la Toscana y cuenta que el tiramisú se inventó en Siena debido a la visita del Gran Duque Cosimo III De Medici: en ese momento el postre se llamaba «sopa de duque».
+>
+
 _Para 8 personas_
+
 <p align="center">
 <img src="https://www.recetasderechupete.com/wp-content/uploads/2020/05/Tiramis%C3%BA-italiano-1200x828.jpg" width="350">
 </p>
