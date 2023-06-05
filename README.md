@@ -11,10 +11,10 @@ Considerar aumentar la cantidad dependiendo del numero de personas
 
 | *Ingrediente*            | *Cantidad*     | | *Ingrediente*            | *Cantidad*     | |
 | ----------------- | :---------------: | :---------------: |:---------------: |:---------------: |:---------------: |
-| Ingrediente 1      | 1 cda  | <img src="https://www.cardamomo.news/__export/1678996138143/sites/debate/img/2023/03/16/queso-crema.jpg_172596871.jpg" width="100"> | Ingrediente 2      |  80 gs  | <img src="https://www.recetasderechupete.com/wp-content/uploads/2020/06/Tipos-de-huevos.jpg" width="100"> |
-| Ingrediente 3        | 3 tzaz  | <img src="https://i0.wp.com/www.pasionthermomix.co/wp-content/uploads/2019/10/azucar-glas.jpg" width="100"> | Ingrediente 4       | 3 Piezas | <img src="https://okdiario.com/img/2015/10/25/receta-de-bizcochos-savoiardi-o-de-soletilla-655x368.jpg" width="100"> |
-| Ingrediente 5       | 3 Piezas | <img src="https://www.disevil.com/modules/ltw_simpleblog/featured/167.jpg" width="100"> | Ingrediente 6       | 3 Piezas | <img src="https://i.blogs.es/99439e/cacao-polvo/1366_2000.jpg" width="100"> |
-| Ingrediente 7       | 3 Piezas | <img src="https://www.sincable.mx/wp-content/uploads/2021/07/Yz6-UdT-cafe-en-polvo-1-81363863_s.jpg" width="100"> | Ingrediente 8       | 3 Piezas | <img src="https://cdn.shopify.com/s/files/1/0003/1916/0381/articles/IMG_8951a1.jpg?v=1621027793" width="100"> |
+| Queso-Crema Mascarpone      | 500g.  | <img src="https://www.cardamomo.news/__export/1678996138143/sites/debate/img/2023/03/16/queso-crema.jpg_172596871.jpg" width="100"> |    Huevo  |  6 piezas.  | <img src="https://www.recetasderechupete.com/wp-content/uploads/2020/06/Tipos-de-huevos.jpg" width="100"> |
+| Azúcar Glass en Polvo        | 150 g. | <img src="https://i0.wp.com/www.pasionthermomix.co/wp-content/uploads/2019/10/azucar-glas.jpg" width="100"> | Bizcochos Savoiardi o de Soletilla      | 300 g. | <img src="https://okdiario.com/img/2015/10/25/receta-de-bizcochos-savoiardi-o-de-soletilla-655x368.jpg" width="100"> |
+| Amaretto       | 4 cucharadas | <img src="https://www.disevil.com/modules/ltw_simpleblog/featured/167.jpg" width="100"> | Café Fuerte       | 150 ml. | <img src="https://i.blogs.es/99439e/cacao-polvo/1366_2000.jpg" width="100"> |
+| Cacao puro en polvo       | 10 a 20 g.  | <img src="https://www.sincable.mx/wp-content/uploads/2021/07/Yz6-UdT-cafe-en-polvo-1-81363863_s.jpg" width="100"> | Sal      | 1 Pizca | <img src="https://cdn.shopify.com/s/files/1/0003/1916/0381/articles/IMG_8951a1.jpg?v=1621027793" width="100"> |
 </div>
 
 ## Preparación de la crema sabayón
@@ -31,7 +31,11 @@ Considerar aumentar la cantidad dependiendo del numero de personas
 
 ## Preparación del tiramisú casero
 
-> Copia y pega todo lo necesario Copia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesariovvCopia y pega todo lo necesarioCopia y pega todo lo necesariovCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesarioCopia y pega todo lo necesario
+- Montamos las claras a punto de nieve. Para ello introducimos las claras, a temperatura ambiente, en un bol en el que no haya ningún resto de grasa o no subirán. Les añadimos un pellizco de sal y empezamos a batir. Batimos hasta que las claras suban y queden firmes. Luego manejamos el merengue con una espátula de silicona.
+
+- Añadimos la crema sabayón que tenemos reservada a las claras montadas. Mezclamos de manera envolvente y con cuidado hasta que quede todo integrado e intentando que bajen lo mínimo posible.
+- Batimos el queso mascarpone hasta que quede cremoso (lo mejor es batirlo a temperatura ambiente). Mezclamos este queso batido con la crema anterior suavemente, intentando que no se baje la crema para mantenerla esponjosa. Reservamos.
+- Ponemos una cafetera con un buen café, el que más nos guste. Una vez preparado lo dejaremos enfriar.
 
 <p align="Center">
 <img src="IMG/tiramisu.jpg" width="250">
